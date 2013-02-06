@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Finally learning to code]]></title>
-  <link href="http://hwang0214.github.com/atom.xml" rel="self"/>
-  <link href="http://hwang0214.github.com/"/>
-  <updated>2013-02-06T10:48:38-05:00</updated>
-  <id>http://hwang0214.github.com/</id>
+  <link href="http://hwang.github.com/atom.xml" rel="self"/>
+  <link href="http://hwang.github.com/"/>
+  <updated>2013-02-06T10:55:05-05:00</updated>
+  <id>http://hwang.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Harrison Wang]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[First Post in Flatiron]]></title>
-    <link href="http://hwang0214.github.com/blog/2013/02/05/first-post-in-flatiron/"/>
+    <link href="http://hwang.github.com/blog/2013/02/05/first-post-in-flatiron/"/>
     <updated>2013-02-05T18:40:00-05:00</updated>
-    <id>http://hwang0214.github.com/blog/2013/02/05/first-post-in-flatiron</id>
+    <id>http://hwang.github.com/blog/2013/02/05/first-post-in-flatiron</id>
     <content type="html"><![CDATA[<p>Today is the third day of class</p>
 ]]></content>
   </entry>
